@@ -1,5 +1,5 @@
 # ignore IDX Exchange Obsidian notes overall
-IDX_Exchange/
+IDX_Exchange/.obsidian/internship_details
 
 # Ignore Raw Data (security reasons)
 raw_data/
