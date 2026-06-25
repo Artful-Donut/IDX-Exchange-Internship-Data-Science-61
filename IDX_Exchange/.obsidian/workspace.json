@@ -6,9 +6,22 @@
       {
         "id": "0dfc2fc2f7cb8797",
         "type": "tabs",
+        "dimension": 42.24343675417661,
         "children": [
           {
             "id": "f14706d7e4d77729",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "internship_details/Trestle Property MetaData.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Trestle Property MetaData"
+            }
+          },
+          {
+            "id": "875a267225e74249",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -24,6 +37,7 @@
       {
         "id": "ecd6194f8e018737",
         "type": "tabs",
+        "dimension": 57.75656324582339,
         "children": [
           {
             "id": "26fe554e37a53f1c",
@@ -31,15 +45,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Daily Scrum/Thursday 6.25.md",
+                "file": "Reports/Daily Scrum/Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thursday 6.25"
+              "title": "Week 1"
+            }
+          },
+          {
+            "id": "39b7e47088d15dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reports/Deliverable Files/Dataset Key Columns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dataset Key Columns"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +88,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,22 +230,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "26fe554e37a53f1c",
+  "active": "a0b63c396ae76214",
   "lastOpenFiles": [
-    "internship_details/Onboarding Meeting.md",
+    "Reports/Deliverable Files/Dataset Key Columns.md",
+    "Reports/Daily Scrum/Week 1.md",
+    "Reports/Daily Scrum/Daily Scrum List.base",
+    "Pasted image 20260625163209.png",
+    "internship_details/Trestle Property MetaData.pdf",
     "internship_details/Data Science v.4.pdf",
-    "Research/Daily Scrum/Thursday 6.25.md",
+    "Reports/Deliverable Files",
+    "internship_details/Onboarding Meeting.md",
     "internship_details/Rules.md",
     "internship_details",
     "Internship Details/Data Science v.4.pdf",
     "Pasted image 20260625160255.png",
     "Research/Untitled.md",
-    "Research/Daily Scrum",
+    "Reports/Daily Scrum",
     "Internship Details/Onboarding Meeting.md",
     "Internship Details/Rules.md",
     "Welcome.md",
     "Internship Details",
-    "Research",
+    "Reports",
     "2026-06-24.md"
   ]
 }

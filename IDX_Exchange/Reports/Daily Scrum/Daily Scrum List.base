@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Research/Daily Scrum")
+    order:
+      - file.name
+      - file.tags
