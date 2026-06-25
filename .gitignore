@@ -1,2 +1,5 @@
 # ignore IDX Exchange Obsidian notes overall
 IDX_Exchange/
+
+# Ignore Raw Data (security reasons)
+raw_data/
