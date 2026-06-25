@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "9e5d582c1e6a20af",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dfc2fc2f7cb8797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f14706d7e4d77729",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "internship_details/Data Science v.4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data Science v.4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ecd6194f8e018737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fe554e37a53f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Daily Scrum/Thursday 6.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thursday 6.25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c7d11da8b3b530c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a62e004f73c0336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b63c396ae76214",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f38de4c73500163f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b23948cb0cba90c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cd47f15eb588f1d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "260355e0416cdfc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4a1a288b644a46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Internship Details/Onboarding Meeting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Onboarding Meeting"
+            }
+          },
+          {
+            "id": "c41eea6ed7679b61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Internship Details/Onboarding Meeting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Onboarding Meeting"
+            }
+          },
+          {
+            "id": "86fc77eb5eb1e4b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e0bcbc5c7c8e18c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f366a30c3e9cc60e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Internship Details/Onboarding Meeting.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Onboarding Meeting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "26fe554e37a53f1c",
+  "lastOpenFiles": [
+    "internship_details/Onboarding Meeting.md",
+    "internship_details/Data Science v.4.pdf",
+    "Research/Daily Scrum/Thursday 6.25.md",
+    "internship_details/Rules.md",
+    "internship_details",
+    "Internship Details/Data Science v.4.pdf",
+    "Pasted image 20260625160255.png",
+    "Research/Untitled.md",
+    "Research/Daily Scrum",
+    "Internship Details/Onboarding Meeting.md",
+    "Internship Details/Rules.md",
+    "Welcome.md",
+    "Internship Details",
+    "Research",
+    "2026-06-24.md"
+  ]
+}
