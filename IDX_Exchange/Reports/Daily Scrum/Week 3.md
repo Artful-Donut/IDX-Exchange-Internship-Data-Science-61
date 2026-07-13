@@ -26,12 +26,14 @@ Questions:
 4. Create train/test split
 	- Recent month = test set
 	- X months immediately preceding = training set
-		- X is not fix and can be a tunable choice 
+		- X is not fixed and can be a tunable choice 
 		- Experiment to find optimal value of X
 ## Progress
-1. Handle Missing Values
+1. Remove unnecessary columns, clean data
+2. Split data into training and test :).
+3. Handle Missing Values 
 	
-2. 
+4. 
 ## Research
 (via AVM_Data_Science_Best_Practices.pdf)
 1. Excise Columns

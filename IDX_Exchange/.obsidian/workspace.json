@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "ecd6194f8e018737",
@@ -271,13 +271,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5094c19e92f9ac55",
+  "active": "bbc339c53a7c7fd4",
   "lastOpenFiles": [
-    "Reports/Daily Scrum/Week 3.md",
     "internship_details/AVM_Data_Science_Best_Practices v.1.pdf",
     "internship_details/Data Science v.4.pdf",
     "Reports/Deliverable Files/Dataset Key Columns.md",
     "internship_details/Trestle Property MetaData.pdf",
+    "Reports/Daily Scrum/Week 3.md",
     "Reports/Daily Scrum/Week 2.md",
     "deliverables/02_preprocessing.ipynb",
     "internship_details/Onboarding Meeting.md",
