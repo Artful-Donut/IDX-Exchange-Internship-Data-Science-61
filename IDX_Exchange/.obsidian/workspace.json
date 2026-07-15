@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "ecd6194f8e018737",
@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/Daily Scrum/Week 2.md",
+                "file": "Reports/Daily Scrum/Week 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2"
+              "title": "Week 3"
             }
           },
           {
@@ -271,17 +271,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "5094c19e92f9ac55",
+  "active": "bbc339c53a7c7fd4",
   "lastOpenFiles": [
-    "deliverables/CRMLS_202605_testing_set.csv",
-    "deliverables/CRMLS_202505_202604_training_set.csv",
     "Reports/Daily Scrum/Week 4.md",
-    "Reports/Daily Scrum/Week 3.md",
-    "internship_details/AVM_Data_Science_Best_Practices v.1.pdf",
-    "Reports/Deliverable Files/Dataset Key Columns.md",
+    "deliverables/CRMLS_202505_202604_training_set.csv",
+    "deliverables/03_baseline_model.ipynb",
     "internship_details/Data Science v.4.pdf",
-    "internship_details/Trestle Property MetaData.pdf",
+    "Reports/Daily Scrum/Week 3.md",
     "Reports/Daily Scrum/Week 2.md",
+    "internship_details/AVM_Data_Science_Best_Practices v.1.pdf",
+    "deliverables/CRMLS_202605_testing_set.csv",
+    "Reports/Deliverable Files/Dataset Key Columns.md",
+    "internship_details/Trestle Property MetaData.pdf",
     "deliverables/02_preprocessing.ipynb",
     "internship_details/Onboarding Meeting.md",
     "internship_details/Rules.md",
@@ -290,8 +291,6 @@
     "Reports/Daily Scrum/Week 1.md",
     "Reports/Daily Scrum/Daily Scrum List.base",
     "Pasted image 20260625163209.png",
-    "Reports/Deliverable Files",
-    "internship_details",
     "Pasted image 20260625160255.png",
     "Research/Untitled.md",
     "Internship Details/Onboarding Meeting.md",
