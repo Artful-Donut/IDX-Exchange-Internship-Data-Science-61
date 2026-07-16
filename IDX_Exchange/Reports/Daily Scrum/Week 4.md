@@ -1,21 +1,27 @@
 # Wednesday Meeting
 
 ## Questions:
-- How you handle flooring? (I just deleted)
+- How you handle flooring? (I just deleted, though I might handle it similarly to how I handed the 'levels' column :P, though it was just a guess on my part)
+	- Lots of feature engineering
+- Which extension do you use for better dataframe printing?
 
 ## Progress:
 
-|              | Current Progress | TO-DO                     |
-| ------------ | ---------------- | ------------------------- |
-| Cici Xiu     |                  |                           |
-| Amy Trinh    |                  |                           |
-| Wenxin Cui   |                  |                           |
-| Anh Tran     |                  |                           |
-| Lynne Nguyen |                  | Work on additional models |
-| Yujian Tan   |                  |                           |
+|              | Current Progress                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | TO-DO                                                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Cici Xiu     | Creating missing percentage columns and plots<br><br>Filled nulls with unknown or 0.<br><br>Sorted data chronologically and used months as a hyperparameter                                                                                                                                                                                                                                                                                                                                | Preprocess data better                                                                                   |
+| Amy Trinh    | Imputed missing values similarly to most everyone else.                                                                                                                                                                                                                                                                                                                                                                                                                                    | Fix preprocess                                                                                           |
+| Wenxin Cui   | Used structure from data validation cohort to validate data (flags data logged incorrectly)<br><br>Built helper function for 10 fold cross validation for linear regression.<br><br>No feature engineering, but rescaled numeric features with RobustScaler (only improved by 1%)                                                                                                                                                                                                          |                                                                                                          |
+| Anh Tran     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                          |
+| Lynne Nguyen | Preprocessed data (was very difficult, mostly because I'm new to MLS and real estate so figuring out how to deal with columns was a whole ordeal. Might end up asking more questions about it later on).<br><br>Linear regression was much easier, though. My values aren't honestly the best, though considering the results from first week (many of the variables had something like a log relationship with ClosePrice), it could also be that linear regression isn't a good measure. | Display results properly<br><br>Also need to use MAPE MdAPE <br><br>Work on additional models for week 5 |
+| Yujian Tan   | Baseline model did pretty well !!, 80% (validation data first). Used 17 features.<br><br>Cleaned data in a separate notebook, and preprocessed in another. <br><br>Changed invalid columns to unlisted columns.<br>Earlier months have inconsistent data reporting. <br><br>Calculated outliers and applied to test set.<br><br>Created preprocessing pipeline.<br>                                                                                                                        |                                                                                                          |
+| Ngo Tran     | Preprocessing, filtered to singlefamily or residential. Merged date columns. Dropped excessively missing columns<br><br>Created new features.<br><br>12 gave the best values.<br><br>Calculated again with ridge regression to stablize model                                                                                                                                                                                                                                              |                                                                                                          |
 # Report
 ## Todo
 - Train a Linear Regression as the first model. 
 - Evaluate using R² on the test set. 
 - Record baseline results. 
 - Deliverable: 03_baseline_model.ipynb.
+
+## Progress
+1. Used sklearn to make
