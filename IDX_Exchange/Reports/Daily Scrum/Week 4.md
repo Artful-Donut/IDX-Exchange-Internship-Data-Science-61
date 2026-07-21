@@ -24,4 +24,5 @@
 - Deliverable: 03_baseline_model.ipynb.
 
 ## Progress
-1. Used sklearn to make
+1. Used sklearn to train linear regression
+2. Came back with some poor results

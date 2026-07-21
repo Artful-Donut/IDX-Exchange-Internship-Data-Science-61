@@ -58,8 +58,7 @@
               "title": "AVM_Data_Science_Best_Practices v.1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ecd6194f8e018737",
@@ -100,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/Daily Scrum/Week 4.md",
+                "file": "Reports/Daily Scrum/Week 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 4"
+              "title": "Week 5"
             }
           }
         ],
@@ -166,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd47f15eb588f1d8",
@@ -274,12 +272,14 @@
   },
   "active": "875a267225e74249",
   "lastOpenFiles": [
-    "internship_details/Trestle Property MetaData.pdf",
+    "Reports/Daily Scrum/Week 3.md",
+    "Reports/Daily Scrum/Week 5.md",
+    "deliverables/04_model_comparison.ipynb",
+    "internship_details/Data Science v.4.pdf",
     "Reports/Daily Scrum/Week 4.md",
+    "internship_details/Trestle Property MetaData.pdf",
     "deliverables/CRMLS_202505_202604_training_set.csv",
     "deliverables/03_baseline_model.ipynb",
-    "internship_details/Data Science v.4.pdf",
-    "Reports/Daily Scrum/Week 3.md",
     "Reports/Daily Scrum/Week 2.md",
     "internship_details/AVM_Data_Science_Best_Practices v.1.pdf",
     "deliverables/CRMLS_202605_testing_set.csv",
@@ -290,7 +290,6 @@
     "deliverables/01_exploration.ipynb",
     "deliverables",
     "Reports/Daily Scrum/Week 1.md",
-    "Reports/Daily Scrum/Daily Scrum List.base",
     "Pasted image 20260625163209.png",
     "Pasted image 20260625160255.png",
     "Research/Untitled.md",
