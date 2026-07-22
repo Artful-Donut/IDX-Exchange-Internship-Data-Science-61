@@ -6,7 +6,7 @@
       {
         "id": "0dfc2fc2f7cb8797",
         "type": "tabs",
-        "dimension": 52.66579973992198,
+        "dimension": 48.6873508353222,
         "children": [
           {
             "id": "f14706d7e4d77729",
@@ -63,7 +63,7 @@
       {
         "id": "ecd6194f8e018737",
         "type": "tabs",
-        "dimension": 47.33420026007802,
+        "dimension": 51.3126491646778,
         "children": [
           {
             "id": "26fe554e37a53f1c",
@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/Daily Scrum/Week 5.md",
+                "file": "Reports/Daily Scrum/Week 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 5"
+              "title": "Week 6"
             }
           }
         ],
@@ -270,12 +270,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f14706d7e4d77729",
+  "active": "875a267225e74249",
   "lastOpenFiles": [
+    "internship_details/Data Science v.4.pdf",
+    "Reports/Daily Scrum/Week 6.md",
     "Reports/Daily Scrum/Week 5.md",
     "Reports/Daily Scrum/Week 3.md",
     "deliverables/04_model_comparison.ipynb",
-    "internship_details/Data Science v.4.pdf",
     "Reports/Daily Scrum/Week 4.md",
     "internship_details/Trestle Property MetaData.pdf",
     "deliverables/CRMLS_202505_202604_training_set.csv",
