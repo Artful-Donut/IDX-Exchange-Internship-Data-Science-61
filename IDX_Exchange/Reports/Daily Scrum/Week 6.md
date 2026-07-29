@@ -22,8 +22,14 @@
 - Deliverable: Updated notebook + table comparing old vs new feature sets, including the school district layer.
 
 ## Progress
-1. 
-2. 
+1. Removed outliers (above 99 percentile and below 1 percentile, any more didn't seem to affect the baseline model much afterwards)
+2. Initial Features to engineer:
+	1. Property age
+	2. Living ratio
+3. Geographic Layer
+	1. The one listed in the document was incorrect, it's actually this one (using 2025-2026 since the datasets use that)
+	2. https://data.ca.gov/dataset/california-school-district-areas-2025-26
+4. 
 
 ## Research
 1. f
