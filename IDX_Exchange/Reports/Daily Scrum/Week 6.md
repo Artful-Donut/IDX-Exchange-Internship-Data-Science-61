@@ -5,15 +5,15 @@
 
 ## Progress:
 
-|              | Current Progress | TO-DO |
-| ------------ | ---------------- | ----- |
-| Cici Xiu     |                  |       |
-| Amy Trinh    |                  |       |
-| Wenxin Cui   |                  |       |
-| Anh Tran     |                  |       |
-| Lynne Nguyen |                  |       |
-| Yujian Tan   |                  |       |
-| Ngo Tran     |                  |       |
+|              | Current Progress                                                                                                                                                                                                                                                                                                       | TO-DO |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Cici Xiu     |                                                                                                                                                                                                                                                                                                                        |       |
+| Amy Trinh    |                                                                                                                                                                                                                                                                                                                        |       |
+| Wenxin Cui   |                                                                                                                                                                                                                                                                                                                        |       |
+| Anh Tran     |                                                                                                                                                                                                                                                                                                                        |       |
+| Lynne Nguyen | - Removed outliers (above 99 percentile and below 1 percentile, any more didn't seem to affect the baseline model much afterwards)<br>   - Results: <br>      - Baseline Model went from an R2 value of 30% -> 70%<br>	  - Decision tree went from 48% -> 82%<br>	  - Random Forest Regressor went from 30% -> 90%<br> |       |
+| Yujian Tan   |                                                                                                                                                                                                                                                                                                                        |       |
+| Ngo Tran     |                                                                                                                                                                                                                                                                                                                        |       |
 # Report
 ## Todo
 - **Example of sample features you can engineer**: bed/bath ratio, age of property in years
@@ -26,4 +26,9 @@
 2. 
 
 ## Research
-1.
+1. f
+
+
+```python 
+import numpy as np
+```
