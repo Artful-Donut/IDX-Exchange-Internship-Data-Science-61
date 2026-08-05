@@ -128,7 +128,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -270,11 +272,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "875a267225e74249",
+  "active": "f14706d7e4d77729",
   "lastOpenFiles": [
+    "deliverables/05_advanced_models.ipynb",
+    "Reports/Daily Scrum/Week 7.md",
     "Reports/Daily Scrum/Week 6.md",
     "Reports/Daily Scrum/Week 5.md",
-    "Reports/Daily Scrum/Week 7.md",
     "deliverables/CRMLS_202605_testing_set_fe.csv",
     "deliverables/CRMLS_202605_testing_set.csv_fe",
     "deliverables/CRMLS_202505_202604_training_set_fe.csv",
