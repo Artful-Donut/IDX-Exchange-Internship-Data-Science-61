@@ -16,7 +16,7 @@
 | Ngo Tran     |                                                                                                                                                                                                                                                                                                                        |                |
 # Report
 ## Todo
-- 
+- use .where() to get rid of divide by zero error
 
 ## Progress
 1. 
