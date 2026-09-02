@@ -1,5 +1,48 @@
 # IDX-Exchange-Internship-Data-Science-61
 Results of the IDX Exchange Data Science Internship, creating a model to predict residential close prices in San Francisco. 
+(Note: Due to security concerns, raw data and internship details are not included in the repository.)
+
+## Results
+The best results were achieved with sci-kit's Histogram Gradient Boost model, with these statistics:
+
+| R2 | Median Absolute Error | Mean Absolute Percentage Error |
+| --- | --- | --- |
+| 0.9200822439269665 | 60420.22765593766 | 0.8252734425585966 |
+
+## How to use this Repository
+The workload is divided into six different files for different sections of work. The most relevant files for viewing can be found as follows:
+
+```
+IDX_Exchange/deliverables
+├── 01_exploration.ipynb
+├── 02_preprocessing.ipynb
+├── 03_baseline_model.ipynb
+├── 04_model_comparison.ipynb
+├── 05_advanced_models.ipynb
+├── 06_evaluation.ipynb
+├── CRMLS_202505_202604_training_set.csv
+├── CRMLS_202505_202604_training_set_fe.csv
+├── CRMLS_202605_testing_set.csv
+├── CRMLS_202605_testing_set_fe.csv
+├── evaluations.csv
+└── histgrad_perfermance_per_priceband.csv
+```
+
+**Jupyter Notebooks 01-06**:
+1) Basic EDA plots of raw data (filtered for single family residential listings) before preprocessing
+2) Preprocessing and exporting data as a new csv
+3) Basic Linear Regression of Data
+4) Comparison of Decision Tree and Random Forest models
+5) Comparison of Histogram Gradient Boosted model and XGBoost
+6) Evaluation of every model (+ Hyperparameter Tuning) with R2, MdAE, and MAPE metrics, as well as further analysis
+
+**CSV Files:**
+1) CRMLS_202505_202604_training_set: Training set from May 2025 - May 2026
+2) CRMLS_202505_202604_training_set_fe: Training set from May 2025 - May 2026 + Feature Engineered columns
+3) CRMLS_202605_testing_set: Testing set with data from June 2026
+4) CRMLS_202605_testing_set_fe: Testing set with data from June 2026 + Feature Engineered columns
+5) evaluations: Evaluation of each model per metric
+6) histgrad_perfermance_per_priceband: Histogram Gradient Boosted performance per price band
 
 # Dataset 
 ## Sourcing
